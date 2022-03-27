@@ -1,0 +1,11 @@
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.csproj.AssemblyReference.cache
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.Queuing_Form.resources
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.ParkingWindowQueue_Form.resources
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.Properties.Resources.resources
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.csproj.GenerateResource.cache
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.csproj.CoreCompileInputs.cache
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\bin\Debug\Queuing_Form.exe.config
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\bin\Debug\Queuing_Form.exe
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\bin\Debug\Queuing_Form.pdb
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.exe
+C:\Users\Ira Clariz\source\repos\Queuing_Form\Queuing_Form\obj\Debug\Queuing_Form.pdb
