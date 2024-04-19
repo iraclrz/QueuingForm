@@ -1,3 +1,2 @@
 # QueuingForm
-This program displays how cashier system works where a number will be automatically generated whenever the button is clicked.
-After this, a number will get deleted from the list when it got called.
+This project demonstrates a cashier system's functionality using C#. It features a user-friendly interface with a button that generates unique queue numbers upon clicking. These numbers represent customers waiting for service and are dynamically managed in a list. As customers are served, their numbers are removed from the list. The project showcases efficient service management and real-time updates, leveraging C#'s capabilities in user interaction and data handling. Overall, it illustrates the streamlined operation of modern cashier systems in retail and service environments.
